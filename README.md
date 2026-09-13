@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Santhosh K 
 
-<!--
-**sandy1654/sandy1654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### M.Tech Electronics (VLSI Design) | RTL Design | ASIC Verification
 
-Here are some ideas to get you started:
+I am an M.Tech Electronics student focused on RTL design, ASIC design, and functional verification.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technical Skills
+
+- **HDL:** Verilog, SystemVerilog
+- **Verification:** UVM, constrained-random verification
+- **EDA:** Synopsys Design Compiler, Cadence Virtuoso, Spectre, Vivado, ModelSim
+- **Programming:** Python, Tcl
+- **FPGA:** Xilinx Vivado
+
+### 🚀 Featured Projects
+
+- **RV32I 5-Stage Pipelined CPU** — Verilog RTL implementation with forwarding and hazard handling
+- **Ethernet MAC UVM Verification** — SystemVerilog/UVM environment with constrained-random testing, CRC/FCS and protocol checks
+
+### 🎓 Education
+
+**M.Tech – Electronics (VLSI Design)**  
+Punjab Engineering College, Chandigarh
+
+**B.E. – Electronics and Communication Engineering**  
+Prathyusha Engineering College
+
+### 📫 Connect
+
+[LinkedIn]: www.linkedin.com/in/santhoshkothandan
